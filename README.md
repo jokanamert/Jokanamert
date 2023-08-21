@@ -3,7 +3,7 @@
 
 - 🔭 Ainda nao trabalho, porem tenho projetos
 - 🌱 Atualmente estou aprendendo JavaScript e EcmaScript
-- 💬 Seria legal ter amigos programadores
+- 💬 se estiver interessado nos meus projetos entre em contato
 - 📫 Se quiser entrar em contato @jokanamert no instagram
 - 😄 Ele/Dele
 <div style="display: inline_block"><br>
